@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|c:\\users\\ms\u0130\\desktop\\111111\\sinavoturumlariuyg\\sinavoturumlariuyg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|solutionrelative:sinavoturumlariuyg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|c:\\users\\ms\u0130\\desktop\\111111\\sinavoturumlariuyg\\sinavoturumlariuyg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|solutionrelative:sinavoturumlariuyg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|c:\\users\\ms\u0130\\desktop\\111111\\sinavoturumlariuyg\\sinavoturumlariuyg\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|solutionrelative:sinavoturumlariuyg\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\sinavoturumlariuyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|solutionrelative:sinavoturumlariuyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\sinavoturumlariuyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|solutionrelative:sinavoturumlariuyg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E411DB0F-0E08-4CEF-8D9A-2FAA8EF59BC5}|\u0130slemler\\\u0130slemler.csproj|C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\\u0130slemler\\sinavislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E411DB0F-0E08-4CEF-8D9A-2FAA8EF59BC5}|\u0130slemler\\\u0130slemler.csproj|solutionrelative:\u0130slemler\\sinavislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F623A3-A869-4880-B729-4BA09EA88215}|\u0130nterfaceler\\\u0130nterfaceler.csproj|C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\\u0130nterfaceler\\vtislemlerii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F623A3-A869-4880-B729-4BA09EA88215}|\u0130nterfaceler\\\u0130nterfaceler.csproj|solutionrelative:\u0130nterfaceler\\vtislemlerii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8618D29A-ED63-4118-B731-52C1734EE05D}|VeriBaglantisi\\VeriBaglantisi.csproj|C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\veribaglantisi\\sinavdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8618D29A-ED63-4118-B731-52C1734EE05D}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\sinavdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8618D29A-ED63-4118-B731-52C1734EE05D}|VeriBaglantisi\\VeriBaglantisi.csproj|C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\veribaglantisi\\sinavoturumlariuyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8618D29A-ED63-4118-B731-52C1734EE05D}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\sinavoturumlariuyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCDEDB7-370B-4B71-AB60-8C976349A830}|Varliklar\\Varliklar.csproj|C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\varliklar\\sinav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCDEDB7-370B-4B71-AB60-8C976349A830}|Varliklar\\Varliklar.csproj|solutionrelative:varliklar\\sinav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|c:\\users\\ms\u0130\\desktop\\111111\\sinavoturumlariuyg\\sinavoturumlariuyg\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|solutionrelative:sinavoturumlariuyg\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8618D29A-ED63-4118-B731-52C1734EE05D}|VeriBaglantisi\\VeriBaglantisi.csproj|c:\\users\\ms\u0130\\desktop\\111111\\sinavoturumlariuyg\\veribaglantisi\\migrations\\202406212126405_init2423.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8618D29A-ED63-4118-B731-52C1734EE05D}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\migrations\\202406212126405_init2423.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8618D29A-ED63-4118-B731-52C1734EE05D}|VeriBaglantisi\\VeriBaglantisi.csproj|c:\\users\\ms\u0130\\desktop\\111111\\sinavoturumlariuyg\\veribaglantisi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8618D29A-ED63-4118-B731-52C1734EE05D}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|c:\\users\\ms\u0130\\desktop\\111111\\sinavoturumlariuyg\\sinavoturumlariuyg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298930E2-273B-4FC3-BC18-6A1337F39CBC}|SinavOturumlariuyg\\SinavOturumlariuyg.csproj|solutionrelative:sinavoturumlariuyg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8618D29A-ED63-4118-B731-52C1734EE05D}|VeriBaglantisi\\VeriBaglantisi.csproj|c:\\users\\ms\u0130\\desktop\\111111\\sinavoturumlariuyg\\veribaglantisi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8618D29A-ED63-4118-B731-52C1734EE05D}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8618D29A-ED63-4118-B731-52C1734EE05D}|VeriBaglantisi\\VeriBaglantisi.csproj|c:\\users\\ms\u0130\\desktop\\111111\\sinavoturumlariuyg\\veribaglantisi\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8618D29A-ED63-4118-B731-52C1734EE05D}|VeriBaglantisi\\VeriBaglantisi.csproj|solutionrelative:veribaglantisi\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinavDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\VeriBaglantisi\\SinavDAL.cs",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\SinavDAL.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\VeriBaglantisi\\SinavDAL.cs",
+              "RelativeToolTip": "VeriBaglantisi\\SinavDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:13:10.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VtIslemleriI.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\\u0130nterfaceler\\VtIslemleriI.cs",
+              "RelativeDocumentMoniker": "\u0130nterfaceler\\VtIslemleriI.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\\u0130nterfaceler\\VtIslemleriI.cs",
+              "RelativeToolTip": "\u0130nterfaceler\\VtIslemleriI.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwBIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:25:06.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SinavIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\\u0130slemler\\SinavIslemleri.cs",
+              "RelativeDocumentMoniker": "\u0130slemler\\SinavIslemleri.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\\u0130slemler\\SinavIslemleri.cs",
+              "RelativeToolTip": "\u0130slemler\\SinavIslemleri.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAD8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:40:55.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\Form1.cs",
+              "RelativeDocumentMoniker": "SinavOturumlariuyg\\Form1.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SinavOturumlariuyg\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:59:06.584Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\Form1.cs",
+              "RelativeDocumentMoniker": "SinavOturumlariuyg\\Form1.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\Form1.cs",
+              "RelativeToolTip": "SinavOturumlariuyg\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:01:25.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\Form2.cs",
+              "RelativeDocumentMoniker": "SinavOturumlariuyg\\Form2.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SinavOturumlariuyg\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:36:57.076Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\App.config",
+              "RelativeDocumentMoniker": "SinavOturumlariuyg\\App.config",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\App.config",
+              "RelativeToolTip": "SinavOturumlariuyg\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-21T14:22:32.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\Form2.cs",
+              "RelativeDocumentMoniker": "SinavOturumlariuyg\\Form2.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\Form2.cs",
+              "RelativeToolTip": "SinavOturumlariuyg\\Form2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:04:33.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SinavOturumlariuyg.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\VeriBaglantisi\\SinavOturumlariuyg.cs",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\SinavOturumlariuyg.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\VeriBaglantisi\\SinavOturumlariuyg.cs",
+              "RelativeToolTip": "VeriBaglantisi\\SinavOturumlariuyg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:57:31.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sinav.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\Varliklar\\Sinav.cs",
+              "RelativeDocumentMoniker": "Varliklar\\Sinav.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\Varliklar\\Sinav.cs",
+              "RelativeToolTip": "Varliklar\\Sinav.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:41:15.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\Report1.rdlc",
+              "RelativeDocumentMoniker": "SinavOturumlariuyg\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\Report1.rdlc [Design]",
+              "RelativeToolTip": "SinavOturumlariuyg\\Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-06-21T22:54:22.819Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\VeriBaglantisi\\App.config",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\App.config",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\VeriBaglantisi\\App.config",
+              "RelativeToolTip": "VeriBaglantisi\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-21T21:12:54.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\Program.cs",
+              "RelativeDocumentMoniker": "SinavOturumlariuyg\\Program.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\SinavOturumlariuyg\\Program.cs",
+              "RelativeToolTip": "SinavOturumlariuyg\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:29:22.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "202406212126405_init2423.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\VeriBaglantisi\\Migrations\\202406212126405_init2423.cs",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\Migrations\\202406212126405_init2423.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\VeriBaglantisi\\Migrations\\202406212126405_init2423.cs",
+              "RelativeToolTip": "VeriBaglantisi\\Migrations\\202406212126405_init2423.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:26:49.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\VeriBaglantisi\\packages.config",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\packages.config",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\VeriBaglantisi\\packages.config",
+              "RelativeToolTip": "VeriBaglantisi\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-21T16:53:45.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\VeriBaglantisi\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "VeriBaglantisi\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\Desktop\\111111\\SinavOturumlariuyg\\VeriBaglantisi\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "VeriBaglantisi\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:26:18.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
